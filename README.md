@@ -6,4 +6,4 @@
 
 * Choice of the variables (Particles smaller than ten μm (PM10), Ground-level Ozone (O3), Nitrogen dioxide (NO2)) which are core pollutants based on airqualitynow.eu
 
-* Used the function auto.arima from the forecast library to generate our prediction model, the output returns an ARIMA model with the best set of hyperparameters to fit the data.
+* Used the function **auto.arima** from the **forecast** library to generate our prediction model, the output returns an ARIMA model with the best set of hyperparameters to fit the data.
